@@ -7,3 +7,4 @@ This fork was created for my pull requests:
 * [codefoster/waterrower#3](https://github.com/codefoster/waterrower/pull/3)
 * [codefoster/waterrower#4](https://github.com/codefoster/waterrower/pull/4)
 * [codefoster/waterrower#5](https://github.com/codefoster/waterrower/pull/5)
+* [codefoster/waterrower#11](https://github.com/codefoster/waterrower/pull/11)
